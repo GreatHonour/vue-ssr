@@ -83,7 +83,7 @@
     "crypto-browserify": "^3.12.0",
     "css-loader": "^2.1.1",
     "css-select": "^1.2.0",
-    "css-what": "^2.1.3",
+    "css-what": "^5.0.1",
     "cssesc": "^3.0.0",
     "cyclist": "^0.2.2",
     "date-now": "^0.1.4",
